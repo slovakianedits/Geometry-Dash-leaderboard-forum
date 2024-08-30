@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://static.wikia.nocookie.net/geometry-dash-fan/images/1/11/Bloodlust.png/revision/latest/scale-to-width-down/1200?cb=20230913175402");
+}
+h1 , h2 , h3 {
+    color: white;
+    font-family: sans-serif;
+}
+a {
+    color: blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
